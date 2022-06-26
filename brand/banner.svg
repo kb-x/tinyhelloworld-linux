@@ -7,9 +7,9 @@
    viewBox="0 0 500 150"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="banner.svg"
-   inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/IPTB/Yellow-Water/logo-assets/banner.png"
+   inkscape:export-filename="banner.png"
    inkscape:export-xdpi="180.00133"
    inkscape:export-ydpi="180.00133"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64"
-     inkscape:cx="-428.90625"
-     inkscape:cy="582.03125"
+     inkscape:zoom="0.32"
+     inkscape:cx="40.625"
+     inkscape:cy="732.8125"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1029"
      inkscape:window-x="1920"
-     inkscape:window-y="40"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -41,7 +41,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2">
     <rect
@@ -137,63 +139,63 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-93.381239,-10.088592)"
        id="text9140"
-       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142);fill:url(#linearGradient4145);fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142);display:inline;fill:url(#linearGradient4145);fill-opacity:1;stroke:none"
        inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/tinyhelloworld-linux/brand/banner.png"
        inkscape:export-xdpi="180.00133"
        inkscape:export-ydpi="180.00133"><tspan
          x="427.66211"
          y="197.45257"
-         id="tspan4243"><tspan
+         id="tspan597"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4241">tINYHELLOWORLDLINUX</tspan></tspan></text>
+           id="tspan595">tINYHELLOWORLDLINUX</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-103.15227,188.62532)"
        id="text9140-6"
-       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:0.75;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142-5);fill:url(#linearGradient4065);fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:0.75;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142-5);display:inline;fill:url(#linearGradient4065);fill-opacity:1;stroke:none"
        inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/tinyhelloworld-linux/brand/icon.png"
        inkscape:export-xdpi="180.00133"
        inkscape:export-ydpi="180.00133"><tspan
          x="427.66211"
          y="164.11932"
-         id="tspan4249"><tspan
+         id="tspan603"><tspan
            style="font-size:106.667px;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4245">TINY</tspan><tspan
+           id="tspan599">TINY</tspan><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4247">
+           id="tspan601">
 </tspan></tspan><tspan
          x="427.66211"
-         y="271.90786"
-         id="tspan4255"><tspan
+         y="268.55993"
+         id="tspan609"><tspan
            style="font-size:106.667px;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4251">HELLO</tspan><tspan
+           id="tspan605">HELLO</tspan><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4253">
+           id="tspan607">
 </tspan></tspan><tspan
          x="427.66211"
-         y="371.9076"
-         id="tspan4259"><tspan
+         y="368.55967"
+         id="tspan613"><tspan
            style="font-size:93.3333px;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
-           id="tspan4257">WORLD</tspan></tspan></text>
+           id="tspan611">WORLD</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-93.381239,37.796737)"
        id="text9140-7-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';white-space:pre;shape-inside:url(#rect9142-4-0);fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';white-space:pre;shape-inside:url(#rect9142-4-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/tinyhelloworld-linux/brand/banner.png"
        inkscape:export-xdpi="180.00133"
        inkscape:export-ydpi="180.00133"><tspan
          x="427.66211"
          y="132.05895"
-         id="tspan4261">938 byte Hello WOrld for linux
+         id="tspan615">873 byte Hello WOrld for linux
 </tspan><tspan
          x="427.66211"
          y="212.05895"
-         id="tspan4263">                                     
+         id="tspan617">                                     
 </tspan><tspan
          x="427.66211"
          y="292.05895"
-         id="tspan4265">By kbx </tspan></text>
+         id="tspan619">By kbx </tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846-8"
